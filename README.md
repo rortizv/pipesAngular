@@ -1,5 +1,9 @@
 # PipesApp
 
+Demostración del uso de los diferentes pipes en Angular. Los pipes nos sirven para cambiar cómo se ve la data mas NO cambia la data, es decir, nos permite modificar ÚNICAMENTE su formato de vista al usuario, pero no el contenido del dato.
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
